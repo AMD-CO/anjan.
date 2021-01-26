@@ -1,0 +1,78 @@
+.mdn {
+    background-color:#08d9d6;
+}
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    color: #212121;
+    
+    
+}
+p{
+    line-height: 2;
+}
+h1 {
+    font-size: 90px;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    line-height: 3;
+}
+.botttom-cloud {
+ position: absolute;
+
+   
+}
+.top-cloud {
+    position: relative;
+    top: 40px;
+    left: 300px;
+}
+h2 {
+  
+    font-family: 'Potta One', cursive;
+}
+h3 {
+    font-family: 'Staatliches', cursive;
+}
+.lol {
+    font-size: 25px;
+}
+.skill-row {
+    margin: 100px auto 100px auto;
+    
+
+}
+.code-img {
+    width:20%;
+    float: left;
+    margin-right: 30px;
+}
+hr {
+    border:dotted #393e46  ;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    
+}
+.contact-me {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.bottom-container {
+    background-color:#08d9d6;
+    padding: 50PX 0 20px;
+}
+a {
+    color: black;
+    font-family: 'Potta One', cursive;
+   text-decoration: none;
+}
+a:hover {
+    color: #eaf6f6;
+}
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.90rem;
+    padding: 10px 0px;
+}
